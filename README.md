@@ -1,4 +1,4 @@
-# CS2 FPS BOOST Pack
+<h1 align="center">CS2 FPS BOOST Pack</h1>
 
 ![maxresdefault](https://github.com/STEK1337/CS2/assets/118012196/f38d786d-0afe-40e3-9251-e0540e63d57e)
 CS2 FPS BOOST Pack contains:
