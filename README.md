@@ -11,3 +11,4 @@ CS2 FPS BOOST Pack contains:
 
 👉 nvidiaProfileInspector (import my custom profile)
 
+![Capture](https://github.com/STEK1337/CS2/assets/118012196/0e433aff-2e8d-46a7-a3ab-8c66f21ac84c)
